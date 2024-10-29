@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env"]
+}
+
+// code co ban de compiler (bien dich code) ko quan tam lam
